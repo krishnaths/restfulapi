@@ -1,6 +1,6 @@
 # RESTFULAPI
 
-This project lists, reads, edits and deletes notes.
+This project lists, reads, edits and deletes notes. It runs on flask framework.
 
 ## Installation
 
